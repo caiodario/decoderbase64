@@ -13,7 +13,7 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em
 1. Faça o download do código-fonte do projeto ou clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/DecoderBase64.git
+    git clone https://github.com/caiodario/DecoderBase64.git
     ```
 
 2. Navegue até o diretório do projeto:
