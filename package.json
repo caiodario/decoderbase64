@@ -1,0 +1,15 @@
+{
+  "name": "decodebase64-app",
+  "version": "1.0.0",
+  "description": "Base CLI base 64 decoder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Caio Dario",
+  "license": "ISC",
+  "dependencies": {
+    "base64-js": "^1.5.1"
+  }
+}
